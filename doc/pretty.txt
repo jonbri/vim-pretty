@@ -1,0 +1,19 @@
+*pretty.txt*  Invoke Prettier on active buffer
+
+Author:  Jonathan Brink
+License: Same terms as Vim itself (see |license|)
+
+INTRODUCTION                                    *pretty*
+
+Prettier invocation helper plugin.
+
+                                                *pretty-<leader> @*
+<leader>p                      Invoke Prettier on active buffer
+
+ABOUT                                           *pretty-about*
+
+Grab the latest version or report a bug on GitHub:
+
+https://github.com/jonbri/vim-pretty
+
+ vim:tw=78:et:ft=help:norl:
